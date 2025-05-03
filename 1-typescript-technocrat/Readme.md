@@ -115,30 +115,6 @@ pnpm ts-node src/index.ts
 
 ---
 
-## 📜 Scripts in package.json
-
-You can simplify commands using NPM/Yarn/PNPM scripts:
-
-```json
-{
-  "scripts": {
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "dev": "ts-node src/index.ts"
-  }
-}
-```
-
-Then run:
-
-```bash
-npm run build
-npm run start
-npm run dev
-```
-
----
-
 ## ✅ Final Tips
 
 - Always place `.ts` source files in `module/`
