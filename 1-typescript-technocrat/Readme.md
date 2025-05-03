@@ -43,7 +43,7 @@ cd next-level-dev
 ```
 
 ```bash
-cd typescript-technocrat
+cd 1-typescript-technocrat
 ```
 
 ### 1. Navigate to a directory (Ex. module-1, module-2, ...)
